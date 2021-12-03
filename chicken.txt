@@ -1,0 +1,22 @@
+(cooked-rice
+ ((raw-rice 15)
+  (clean-rice-pot 0)))
+(buttered-pan
+ ((clean-pan 0)
+  (butter 2)))
+(cooked-chicken
+ ((buttered-pan 0)
+  (seasoned-chicken 10)))
+(seasoned-chicken
+ ((cut-chicken 2)
+  (garlic-salt 0)
+  (pepper 0)))
+(cut-chicken 
+ ((raw-chicken 1)
+  (clean-knife 0)
+  (clean-cutting-board 0)))
+(chicken-meal
+ ((cooked-rice 1)
+  (cooked-chicken 0)
+  (clean-plate 0)
+  (clean-cutlery 0)))

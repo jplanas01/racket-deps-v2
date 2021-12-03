@@ -1,0 +1,11 @@
+(console-station
+  ((esis 0)
+   (windows-pc 120)
+   (hosts-file 0)
+   (safeview-file 0)))
+(esis
+  ((epks-dvds 0)
+   (external-hdd 60)))
+(windows-pc
+  ((windows-install-cd 0)
+   (pc-hardware 90)))
